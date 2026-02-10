@@ -126,3 +126,7 @@ The if–else statement is a decision-making control structure used in programmi
 4. Else calculate tax according to income slabs
 5. Display income tax
 6. Stop
+
+## Conclusion
+
+In this experiment, the concept of the if–else statement was studied and implemented through various programs. These programs helped in understanding decision-making in programming by applying conditional logic to solve real-life problems such as number checking, grading, salary calculation, date increment, and tax computation. The experiment improved logical thinking and problem-solving skills, and demonstrated how conditional statements control the flow of a program effectively.
